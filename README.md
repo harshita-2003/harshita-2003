@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@harshita-2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@harshita-2003" height="30" width="40" /></a>
 <a href="https://twitter.com/harshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harshita-gupta-03b6b125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-gupta-03b6b125b/" height="30" width="40" /></a>
 <a href="https://instagram.com/happiepill18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happiepill18" height="30" width="40" /></a>
