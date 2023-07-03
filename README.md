@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **harshita.gupta.2022@msit.in**
 
+- 📌 Link to my resume https://harshita-2003.github.io/Harshita-Portfolio/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita" height="30" width="40" /></a>
